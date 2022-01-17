@@ -1,0 +1,174 @@
+Scenario generators:
+https://englishprompts.com/wwyd/
+https://tim.cgmatane.qc.ca/lougen/improv-generator.html
+
+Ideas: 
+  Tinder for _______
+
+
+Watch out! There's a dangerous animal over there!
+I'm sorry sir, but you can't bring that in here.
+Look! There’s a tiger in the neighbor’s yard!
+Umm, it’s about your dog
+Hello. I’m from the FBI. We want to talk to you about that box on your front porch!
+I’d like to return this for a refund.
+Does your husband/wife drive a red Toyota?
+
+
+you could buy a life-life robot companion?
+you found a wallet on the street? What if it had no ID? What if there were $1000 in it?
+
+
+var WWYD = ['your best friend smelled bad?'
+ 'your boss served you a terrible dinner?'
+ 'your secret crush cooked you a disgusting meal?'
+ 'you were allergic to your sister\'s pet cat?'
+ 'there were a giant spider in the middle of the floor?'
+ 'there were a giant spider in your shower?'
+ 'your brother bought a snake as a pet?'
+ 'your brother bought a snake as a pet
+ and it lived in the same room with you?'
+ 'your brother bought a tarantula as a pet?'
+ 'your brother bought a tarantula as a pet
+ and it lived in the same room with you?'
+ 'you had a friend who never smiled?'
+ 'you had a friend who always wanted to stay home
+ even when hanging out with friends?'
+ 'your girlfriend/boyfriend preferred staying in all the time?'
+ 'your girlfriend/boyfriend never smiled or laughed
+ saying they really preferred to be serious?'
+ 'you overslept and were going to be late to school?'
+ 'you fell asleep in class?'
+ 'you realized in school that you had forgotten to do your homework?'
+ 'you forgot to do your homework and you were one bad grade (mark) away from failing the class?'
+ 'you and your friend were both late to class but only you got punished?'
+ 'you\'re taking an important test and you see someone cheating?'
+ 'you\'re taking a test and you see someone cheating from your paper?'
+ 'you\'re at a meeting at work and one of your colleagues begins presenting ideas you had told them?'
+ 'your teacher says you can get good grades if you start bringing them gifts to school?'
+ 'a homeless person asks you for money?'
+ 'your friend has stolen the answers to the final exam and offers them to you?'
+ 'your parents wanted you to go to a cram school and study for exams or college prep for 3 hours after regular school?'
+ 'your boss says she will promote you if you take 3-hour-long training classes after work for 12 weeks?'
+ 'there were a giant bug on the table
+ and your friend told you not to kill it?'
+ 'you saw a dog in a hot car with the windows up?'
+ 'you saw a baby in a hot car with the windows up?'
+ 'you found a wallet on the street? What if it had no ID? What if there were $1000 in it?'
+ 'you were picked to travel to Mars?'
+ 'you could instantly download any knowledge or skill to your brain?'
+ 'a UFO landed in your backyard?'
+ 'a genie gave you one wish?'
+ 'you saw a ghost in your room?'
+ 'you found a magic wand on the ground?'
+ 'a wizard appeared and told you that you were the only one to defeat the Evil One?'
+ 'a ninja jumps out of the shadows and tells you
+ "Prepare to die!"'
+ 'you find a magic ring that gives you super strength?'
+ 'you find a magic ring that lets you fly?'
+ 'a volcano erupts and you have ten minutes to evacuate your house?'
+ 'you were bitten by a zombie? a vampire? a deadly snake?'
+ 'your parents were bitten by zombies? a venomous spider?'
+ 'a stranger offers you a million dollars to spend the night with them?'
+ 'you have a friend who is very touchy feely?'
+ 'you have a friend who is always late?'
+ 'you meet someone online and agree to a date. When you meet them
+ they look nothing like their picture?'
+ 'you meet someone online whom you really like
+ but when you meet in person
+ you don\'t get along at all.'
+ 'you\'re in an elevator with a couple and they start making out?'
+ 'your 12-year old child wants to start dating?'
+ 'the person you are dating reveals they are non-binary?'
+ 'the person you are dating reveals they are trans-gender?'
+ 'you see a stranger holding a sign that says \'FREE HUGS\'?'
+ 'your neighbor is being very loud?'
+ 'you need to go to the bathroom very badly
+ but the bathroom for your gender is busy while the bathroom for the other gender is free?'
+ 'you are in a nice restaurant and a small child is running around and being very loud?'
+ 'you could make a clone of yourself?'
+ 'you could buy a life-life robot companion?'
+ 'you could erase one painful memory?'
+ 'you could teleport anywhere in the world?'
+ 'you could switch gender for 24 hours? For 1 week? For 1 year?'
+ 'you got a present you hated from a good friend?'
+ 'you could read other people\'s minds?'
+ 'you were elected president or leader of your country?'
+ 'you won a million dollars in the Lottery?'
+ 'you won $100
+000 dollars in the Lottery?'
+ 'you won a hundred dollars in the Lottery?'
+ 'you saw your favorite celebrity eating at the same restaurant as you? What if they had a reputation for being very nice to fans? Or very rude?'
+ 'you had to hire a teenager with no experience or a qualified undocumented immigrant?'
+ 'your teenage child got into music with very sexual explicit lyrics?'
+ 'your spouse regularly beats your child?'
+ 'your ten-year-old child wants a smartphone?'
+ 'your partner wants to co-sleep
+ meaning the whole family shares a bed?'
+ 'your partner admits that they cheated on you
+ but they claim that the affair is over now?'
+ 'your friends are dating
+ but they have vicious fights all the time?'
+ 'your friend belongs to a very obscure religion and many people think they are very strange?'
+ 'a person you are dating belongs to a different religion than you and your family doesn\'t approve?'
+ 'a self-driving car crashes and kills someone? You are the judge and have to decide who is at fault: the computer
+ the driver who was doing nothing
+ the company
+ or no one.'
+ 'you were offered the chance to go back in time and save John F. Kennedy (or another hero from history)?'
+ 'you were offered the chance to go back in time and kill Adolph Hitler as a baby (or another villian from history)?'
+ 'you are offered a great job but only if you sleep with the boss regularly?'
+ 'you are the leader of the world and you have to decide whether to make English the global language?'
+ 'you discover a member of the cleaning staff at your office has been stealing office supplies and selling them to pay for necessary medical expenses?'
+ 'you were offered the chance to become a ghost?'
+ 'you were offered the chance to become a vampire?'
+ 'your best friend revealed they were a ghost?'
+ 'your mom/dad revealed they were a werewolf?'
+ 'your best friend\'s parents made you a terrible meal?'
+ 'you found a wallet on the street with no ID?'
+ 'your best friend were bitten by a vampire? A zombie? A deadly spider?'
+ 'you find a magic ring that lets you teleport?'
+ 'your pet could talk to you?'
+ 'your friend is using illegal drugs?'
+ 'you are the leader of your country and you have to decide whether to do away with all border security and have totally open borders?'
+ 'you are captain of the Titanic and you have to decide in what order to evacuate people.'
+ 'A pandemic has spread worldwide
+ causing great suffering. Your company has just developed the cure. This could save the world and/or make you rich.'
+ 'your teenage child got into music with lyrics full of slurs and swears?'
+ 'your teacher calls you to school and tells you that your child is a bully?'
+ 'your teacher calls you to school and tells you that your child is being severely bullied?'
+ 'you were offered the chance to go back in time and prevent a tragedy such as September 11th.'
+ 'an assassin threatens to kill your whole family unless you agree to kill a person he has chosen for you?'
+ 'you are a soldier at war; you and your comrades-at-arms are in a bunker when a grenade is thrown in. You have seconds to act or do nothing!'
+ 'your school wants to institute uniforms and you\'re the deciding vote on whether to have uniforms and if so
+ what they would look like?'
+ 'your teacher or boss tells you in private that they dislike you and will do everything to ensure you fail?'
+ 'your friend and their partner are publicly very affectionate with each other and it gets them a lot of negative attention.'
+ 'you go to a restaurant where you know the servers are paid a low wage and live on tips. The service has been very bad
+ but your partner says you should still tip well?'
+ 'you\'re working in a café in a strange city. You need to go to the bathroom. Do you take your laptop with you or leave it unattended?'
+ 'your neighbor
+ who has a bad temper and works the night-shift demands that you keep very quiet at home all day?'
+ 'your friend asks you to take off your shoes before entering their house
+ but you are wearing very dirty and smelly socks?'
+ 'you find a magic potion (the elixir of life) which will make you live forever?'
+ 'you find a magic potion (the elixir of youth) which will take 5 years off your life for every sip you take?'
+ 'you are on a wildlife sightseeing trip and the guide offers you the chance to hunt any animal you want
+ even illegal or endangered species?'
+ 'you are applying for a job and the interviewer asks you about a skill or qualification you don\'t have? If you lie
+ you have much better chances of getting the job.'
+ 'you\'re given a robot assistant who is so good at their job that they end up saying they\'ll fire your other assistants unless you lie about the robot\'s productivity?'
+ 'you suspect the parents of your good friend are being abusive?'
+ 'you suspect your friends are being abusive to their child?'
+ 'you are in a store with your friend and you see them put a candy bar in their pocket?'
+ 'a friend starts telling jokes full of ethnic slurs and racist language?'
+ 'you are a police officer and you discover your sibling is suspected of committing a serious crime and you are assigned to arrest them?'
+ 'you discover that you can talk to any animal in the world?'
+ 'you are offered the job of your dreams but you have to work nights only and you\'ll have to sleep all day?'
+ 'WILD CARD: Come up with your own situation!']
+
+function newWWYD() {
+    var randomNumber = Math.floor(Math.random() * (WWYD.length));
+    document.getElementById('WWYDdisplay').innerHTML = WWYD[randomNumber];
+}
+
