@@ -1,13 +1,13 @@
 let IMAGES = []; // Will put all images in this
 const ROUNDS = 1; // Amount of rounds the carousel will shift trough
-const CAROUSEL_TIME = 5; // Total time in seconds carousel will spin
+const CAROUSEL_TIME = 3; // Total time in seconds carousel will spin
 
 const AMOUNT_STEPS = 2;
 let CURRENT_STEP = 1;
 
 function previewImages() {
     IMAGES = [];
-    $("#yourimagestitle").html("Images selected by you");
+    $("#yourimagestitle").html("Selected images");
     $("#usage").html("");
     $("#random-image-div").css('display', 'none');
     for (let file of document.getElementById("imagesInput").files) {

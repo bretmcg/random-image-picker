@@ -3,7 +3,8 @@
 }
 
 .random-image {
-    max-height: 70%;
+    /* max-height: 70%; */
+    height: 100%;
     width: auto;
 }
 
